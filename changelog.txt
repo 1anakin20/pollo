@@ -1,0 +1,3 @@
+Changelog
++ IMPORTANT Fixed bug that crashed app in startup
++ Added random backgrounds
