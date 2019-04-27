@@ -36,5 +36,13 @@ The song in background was BLACKPINK - '불장난 (PLAYING WITH FIRE)' M/V. I do
 
 Apple logo is propriaty of Apple Inc. I don't own the copyrights for the logo, and not affiliated in any way to Apple Inc. Used in accordance to fair usage.
 
-Based on the learning project of godot (https://docs.godotengine.org/en/3.1/getting_started/step_by_step/your_first_game.html)
+Based on the learning project of godot (https://docs.godotengine.org/en/3.1/getting_started/step_by_step/your_first_game.html).
 Pollo for the assets of his face, and the pollo POLLITO pollo sound.
+
+가요 ㅅ
+ㅣ
+ㅣㅎ
+ㅣㅎㅏ
+ㅣㅎㅏㄴ
+ㅣㅎㅏㄴ
+
