@@ -28,6 +28,7 @@ Me, 토맛 다니엘 someone with too much free time.
 ## License
 
 License is not avaible yet. This can be changed without any notice.
+All rights reserved.
 
 ## Acknowledgments
 
@@ -38,11 +39,4 @@ Apple logo is propriaty of Apple Inc. I don't own the copyrights for the logo, a
 
 Based on the learning project of godot (https://docs.godotengine.org/en/3.1/getting_started/step_by_step/your_first_game.html).
 Pollo for the assets of his face, and the pollo POLLITO pollo sound.
-
-가요 ㅅ
-ㅣ
-ㅣㅎ
-ㅣㅎㅏ
-ㅣㅎㅏㄴ
-ㅣㅎㅏㄴ
 
