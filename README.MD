@@ -32,8 +32,7 @@ All rights reserved.
 
 ## Acknowledgments
 
-The song in background was BLACKPINK - '불장난 (PLAYING WITH FIRE)' M/V. I don't own the rights to that song, and not affiliated in any way to BLACKPINK. Used in accordance to fair usage. 
-(ps- I ❤️ that song)
+The song in background was BLACKPINK - '불장난 (PLAYING WITH FIRE)' M/V. I don't own the rights to that song, and not affiliated in any way to BLACKPINK. Used in accordance to fair usage.
 
 Apple logo is propriaty of Apple Inc. I don't own the copyrights for the logo, and not affiliated in any way to Apple Inc. Used in accordance to fair usage.
 
