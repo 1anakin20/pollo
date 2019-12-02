@@ -38,3 +38,6 @@ Apple logo is propriaty of Apple Inc. I don't own the copyrights for the logo, a
 
 Based on the learning project of godot (https://docs.godotengine.org/en/3.1/getting_started/step_by_step/your_first_game.html).
 Pollo for the assets of his face, and the pollo POLLITO pollo sound.
+
+Hello to you looking at this project in github code bank in a few million of years 👋
+(also hello if you are just casually looking at this on the github website)
